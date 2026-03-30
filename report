@@ -124,3 +124,90 @@ Include real-time emergency service integration.
 The program successfully demonstrates a basic healthcare assistance system using C programming. It integrates patient management, symptom analysis, and emergency handling into a single application. While suitable for academic and demonstration purposes, further improvements are required for practical, real-world deployment.
 
 TEST CASES
+1)
+INTEGRATED SMART HEALTHCARE SYSTEM
+1. Health Analysis Module
+2. Emergency Response Module
+Enter your choice: Emergency Types:
+1.Accident
+2.Fire
+3.Cardiac Arrest
+4.General Emergency
+5.Seizures
+Enter your Emergency Type: Severity Type (1-5): 
+EMERGENCY REPORT:
+Emergency Type: Accident
+Control Bleeding.
+Do not move injured person.
+Priority : HIGH
+Emergency Dispatched Successfully
+
+2)
+INTEGRATED SMART HEALTHCARE SYSTEM
+1. Health Analysis Module
+2. Emergency Response Module
+Enter your choice: Emergency Types:
+1.Accident
+2.Fire
+3.Cardiac Arrest
+4.General Emergency
+5.Seizures
+Enter your Emergency Type: Severity Type (1-5): 
+EMERGENCY REPORT:
+Emergency Type: Cardiac Arrest
+Start CPR.
+Priority : CRITICAL
+Emergency Dispatched Successfully
+
+3)
+INTEGRATED SMART HEALTHCARE SYSTEM
+1. Health Analysis Module
+2. Emergency Response Module
+Enter your choice: Emergency Types:
+1.Accident
+2.Fire
+3.Cardiac Arrest
+4.General Emergency
+5.Seizures
+Enter your Emergency Type: Severity Type (1-5): 
+EMERGENCY REPORT:
+Emergency Type: General Emergency
+Monitor condition.
+Priority : LOW
+Emergency Dispatched Successfully
+
+4)
+INTEGRATED SMART HEALTHCARE SYSTEM
+1. Health Analysis Module
+2. Emergency Response Module
+Enter your choice: Emergency Types:
+1.Accident
+2.Fire
+3.Cardiac Arrest
+4.General Emergency
+5.Seizures
+Enter your Emergency Type: Severity Type (1-5): 
+EMERGENCY REPORT:
+Emergency Type: Fire
+Cover burns.
+Move away from fire.
+Priority : HIGH
+Emergency Dispatched Successfully
+
+5)
+INTEGRATED SMART HEALTHCARE SYSTEM
+1. Health Analysis Module
+2. Emergency Response Module
+Enter your choice: Emergency Types:
+1.Accident
+2.Fire
+3.Cardiac Arrest
+4.General Emergency
+5.Seizures
+Enter your Emergency Type: Severity Type (1-5): 
+EMERGENCY REPORT:
+Emergency Type: Seizures
+Remove sharp objects.
+Priority : HIGH
+Emergency Dispatched Successfully
+
